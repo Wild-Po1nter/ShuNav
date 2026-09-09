@@ -78,6 +78,11 @@
                 "name": "校友会",
                 "url": "https://alumni.shu.edu.cn/",
                 "description": "涉及小米奖学金、苏州工业园区奖学金等"
+            },
+            {
+                "name": "乐乎社区",
+                "url": "https://bbs.shu.edu.cn/",
+                "description": "上海大学官方bbs校内论坛，建议搭配热心群众制作的ShuYo适配APP食用"
             }
         ]
     },
@@ -158,6 +163,11 @@
                 "url": "https://pintia.cn/home",
                 "logo": "img/code-svgrepo-com.svg",
                 "description": "练编程的"
+            },
+            {
+                "name": "上海大学新生入校交通指南",
+                "url": "https://map.shutf.com/guide/",
+                "description": "上海大学公共交通研究社(SHUTF)建立的在线网站"
             }
         ]
     }
